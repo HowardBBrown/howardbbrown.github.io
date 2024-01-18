@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="https://bootswatch.com/4/slate/bootstrap.min.css">
   <style>
     .banner {
-      background-image: url("[banner.jpg](https://github.com/HowardBBrown/howardbbrown.github.io/blob/main/kenny-eliason-OjxsirfohHU-unsplash.jpg)");
+      background-image: url("https://github.com/HowardBBrown/howardbbrown.github.io/blob/main/kenny-eliason-OjxsirfohHU-unsplash.jpg");
       background-size: cover;
       background-position: center;
       height: 400px;
