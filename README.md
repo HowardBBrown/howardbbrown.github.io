@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="https://bootswatch.com/4/slate/bootstrap.min.css">
   <style>
     .banner {
-      background-image: url("banner.jpg");
+      background-image: url("[banner.jpg](https://github.com/HowardBBrown/howardbbrown.github.io/blob/main/kenny-eliason-OjxsirfohHU-unsplash.jpg)");
       background-size: cover;
       background-position: center;
       height: 400px;
@@ -165,11 +165,10 @@
       <div class="row">
         <div class="col-md-6">
           <div class="card">
-            <img src="random_forest.jpg" alt="Random Forest Classifier Project" class="card-img-top">
+            <img src="https://via.placeholder.com/300x200" alt="Random Forest Classifier Project" class="card-img-top">
             <div class="card-body">
-              <div class="card-title">Random Forest Classifier Project</div>
+              <div class="card-title"><a href="https://github.com/HowardBBrown/Data-Science-Projects/blob/main/Classification/randomForestClassifier.ipynb">Random Forest Classifier Project</a></div>
               <div class="card-text">An project using the scikit-learn implementation of the RandomForestClassifier placeholder</div>
-              <div class="card-link"><a href="https://github.com/HowardBBrown/Data-Science-Projects/blob/main/Classification/randomForestClassifier.ipynb">View on GitHub</a></div>
             </div>
           </div>
         </div>
